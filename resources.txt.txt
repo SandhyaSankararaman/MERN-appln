@@ -1,0 +1,11 @@
+mongodb+srv://ss9403:<password>@november-cluster.ag4emlg.mongodb.net/
+above link along with password
+password: abc12367
+username: ss9403
+
+npm i dotenv
+npm i mongoose
+npm i bcrypt
+
+for material UI:npm install @mui/material @emotion/react @emotion/styled
+
